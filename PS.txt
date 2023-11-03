@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>GPTCPT</title>
+</head>
+<body bgcolor="pink">
+<h1>Welcome to GPTCPT</h1>
+Welcome to CS lab(Computer Science)
+</body>
+</html>
